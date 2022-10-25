@@ -153,6 +153,10 @@ hr {
   margin-top: 80px;
 }
 
+section{
+  padding-top: 8%;
+}
+
   .logo-pulpo{
     width: 30%;
     height: 30%;
@@ -160,6 +164,10 @@ hr {
 }
 
 @media (max-width: 600px) {
+section{
+  padding-top: 8%;
+}
+
 .timetable{
   text-align: left;
   margin-bottom: 30px;
