@@ -154,7 +154,7 @@ hr {
 }
 
 section{
-  padding-top: 8%;
+  padding-top: 10%;
 }
 
   .logo-pulpo{
@@ -165,7 +165,7 @@ section{
 
 @media (max-width: 600px) {
 section{
-  padding-top: 8%;
+  padding-top: 10%;
 }
 
 .timetable{
