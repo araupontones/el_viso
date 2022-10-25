@@ -4,6 +4,7 @@ body {
 
 section {
   margin-top: 0%;
+  padding-top: 5%
 }
 
 hr {
@@ -14,16 +15,19 @@ hr {
   color: black !important;
 }
 
-#title, #info, #uncastillera, #socios {
+#title{
+  padding-top: 2%;
+}
+#title, #info, #uncastillera, #socios, #vision {
   background-color: white;
 }
 
 #viso, #open {
-  background-color: black;
+  background-color: #212529;
   color: white !important;
 }
 
-#uncastillera, #socios {
+#uncastillera, #socios, #vision {
   color: black !important;
 }
 
@@ -64,7 +68,6 @@ hr {
 /* home page --------------------------------------------------*/
 
 .texto-title{
-
   font: 400 4rem 'Special Elite'
 }
 
@@ -95,6 +98,7 @@ hr {
 
 .epic-title {
   font-size: 5rem;
+  font-family: 'Amatic SC';
 }
 
 .container-epic-stats {
@@ -107,6 +111,13 @@ hr {
 
 .fas{
   font-size: 3rem;
+}
+
+/*vision-------------------------------------*/
+.parrafo{
+
+  font-family: 'Montserrat'
+
 }
 
 /* socios ---------------------------------*/
