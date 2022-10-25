@@ -1,0 +1,148 @@
+body {
+  background-color: #212529;
+}
+
+section {
+  margin-top: 0%;
+}
+
+hr {
+  height: .3rem !important;
+  width: 50% !important;
+  margin: 45px auto !important;
+  opacity: 1 !important;
+  color: black !important;
+}
+
+#title, #info, #uncastillera, #socios {
+  background-color: white;
+}
+
+#viso, #open {
+  background-color: black;
+  color: white !important;
+}
+
+#uncastillera, #socios {
+  color: black !important;
+}
+
+.white{
+  color: white !important;
+}
+/*Navigation bar -----------------------------------*/
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Amatic SC', cursive;
+  font-size: 2.5rem;
+  font-weight: 500;
+  margin-left: 0;
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-family: 'Amatic SC', cursive;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 200;
+}
+
+.container-fluid-nav {
+  padding: 1% 15% 2%;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+
+/* home page --------------------------------------------------*/
+
+.texto-title{
+
+  font: 400 4rem 'Special Elite'
+}
+
+.timetable {
+  font: 400 1rem "Montserrat";
+}
+
+.landmark {
+  color: red;
+  font-weight: 800;
+}
+
+
+.boton-registro {
+  width: 200px !important;
+  margin: 30px auto;
+  font: 600 2rem 'Amatic SC';
+  background-color: black;
+  border-color: black;
+
+}
+
+
+/*Carreras ----------------------------------------------------------------*/
+.container-epic-sum {
+  font: 600 2rem 'Amatic SC';
+}
+
+.epic-title {
+  font-size: 5rem;
+}
+
+.container-epic-stats {
+  margin-top: 10%;
+}
+
+.diccionario, .info-item{
+  line-height: .7;
+}
+
+.fas{
+  font-size: 3rem;
+}
+
+/* socios ---------------------------------*/
+.container-logos{
+
+  margin-top: 100px;
+}
+
+.logo-villas{
+  width: 300px;
+  margin: auto;
+}
+
+.logo-pulpo{
+  width: 15%;
+  height: 15%;
+  margin: auto;
+}
+
+.logo-uncas{
+  width: 150px;
+  margin: auto;
+}
+
+.press-logo{
+
+  /*margin: 20px 20px 50px;*/
+}
+
+/*
+.container-photo-title {
+  color: white;
+  text-align: center;
+  height: 500px;
+  z-index: 9999;
+  background: url("../imgs/foto_2.jpg") center center no-repeat;
+  background-size: 100%;
+}
+*/
