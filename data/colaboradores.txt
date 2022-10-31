@@ -1,0 +1,3 @@
+Marca	logo
+Instalaciones banales	banales.jpg
+Pulpodata	pulpodata.png
