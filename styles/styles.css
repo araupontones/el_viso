@@ -81,6 +81,25 @@ hr {
 }
 
 
+/*count down ------------------------------------------------------------*/
+.count-down{
+  margin-top: 20px
+}
+.count{
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: 'Montserrat'
+}
+
+.days{
+  font-size: 2rem;
+  font-weight:500;
+  font-family: "Montserrat";
+  line-height: .5;
+}
+
+
+/*Boton registro --------------------------------------------------------------*/
 .boton-registro {
   width: 200px !important;
   margin: 30px auto;
