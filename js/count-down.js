@@ -1,4 +1,4 @@
-var raceDate = new Date("April 1, 2023 9:30:00");
+var raceDate = new Date("April 1, 2023 0:00:01");
 var today = new Date().getTime();
 var distance = raceDate - today ;
 

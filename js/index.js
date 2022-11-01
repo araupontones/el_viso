@@ -1,11 +1,16 @@
-console.log("hello world");
 const fs = require('fs');
-const { parse } = require("csv-parse");
+const my_folder = "../imgs/logos/";
+
+fs.readdir(my_folder, (err, files) =>{
 
 
+files.forEach(file => {
 
-fs.createReadStream("../data/colaboradores.csv")
-  .pipe(parse({ delimiter: ",", from_line: 2 }))
-  .on("data", function (row) {
-    console.log(row);
-  })
+  var source = "imgs/logo/" + file
+  var my_div = '<img class = "press-logo" src = "'+ source + '" alt = "tc-logo">';
+//  <img class="press-logo logo-villas" src="imgs/logo-cinco-villas.svg" alt="tc-logo">
+$('#target').append(my_div);
+  console.log(my_div);
+})
+
+})
