@@ -100,6 +100,11 @@ hr {
 
 
 /*Boton registro --------------------------------------------------------------*/
+.fecha-registros{
+font-size: 1.5rem;
+  font-family: 'Amatic SC';
+}
+
 .boton-registro {
   width: 200px !important;
   margin: 30px auto;
