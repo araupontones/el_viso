@@ -1,5 +1,6 @@
 let logos = ["logo-cinco-villas.svg",
 "uncastillo.png",
+"Ambar.png",
 "arcess.png",
 "arcess_reno.jpg",
 "banales.jpg",
