@@ -122,6 +122,16 @@ font-size: 1.5rem;
 
 }
 
+.boton-registro-open {
+  width: 500px !important;
+  margin: 0 auto 20px auto;
+  font: 600 1.7rem 'Amatic SC';
+  background-color: grey;
+  border-color: grey;
+
+}
+
+
 
 /*Carreras ----------------------------------------------------------------*/
 .container-epic-sum {
