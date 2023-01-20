@@ -247,4 +247,9 @@ padding-right: 4%;
     width: 50%;
     height: 50%;
   }
+
+  .boton-registro-open{
+    font-size: 1.1rem;
+  
+  }
 }
