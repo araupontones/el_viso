@@ -23,6 +23,7 @@ let logos = ["logo-cinco-villas.svg",
 "podoactiva.png",
 "pulpodata.png",
 "una.jpg",
+"uncastelum.png",
 "vanguardia.jpg"
 
 ];
