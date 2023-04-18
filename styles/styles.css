@@ -140,7 +140,14 @@ font-size: 1.5rem;
 
 }
 
+.boton-equipacion{
+  width: 500px !important;
+  margin: 0 auto 20px auto;
+  font: 600 1.7rem 'Amatic SC';
+  background-color: #B1376E;
+  border-color: #B1376E;
 
+}
 
 
 
