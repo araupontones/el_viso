@@ -20,7 +20,7 @@ let logos = ["logo-cinco-villas.svg",
 "hasta_luna.jpeg",
 "joseluis.png",
 "ines.png",
-//"justo.jpg",
+"justo.jpg",
 
 //"lamarca.jpeg",
 "lacasa.png",
