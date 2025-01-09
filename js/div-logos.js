@@ -22,7 +22,7 @@ let logos = ["logo-cinco-villas.svg",
 "ines.png",
 "justo.jpg",
 
-//"lamarca.jpeg",
+"lamarca.jpeg",
 "lacasa.png",
 "lapieza.png",
 "limusin.png",
@@ -46,5 +46,5 @@ let logos = ["logo-cinco-villas.svg",
       l = logos[i];
       var source = "imgs/logos/" + l;
       //$('#logos').append('<div>hola</div>');
-      $('#logos').append(  '<div class="col-4 col-md-3 my-auto">  <img class="img-fluid logo" src="'+source+'" alt=""></div>');
+      $('#logos').append(  '<div class="col-6 col-md-2 my-auto">  <img class="img-fluid logo" src="'+source+'" alt=""></div>');
   }
